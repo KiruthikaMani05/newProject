@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/KiruthikaMani05.github.io/newProject/static/css/main.503a9f05.css",
+    "main.js": "/KiruthikaMani05.github.io/newProject/static/js/main.21c588d6.js",
+    "static/js/453.81f383cb.chunk.js": "/KiruthikaMani05.github.io/newProject/static/js/453.81f383cb.chunk.js",
+    "static/media/notification.svg?s3g3t9": "/KiruthikaMani05.github.io/newProject/static/media/notification.5d0158671dd860c714c4.svg",
+    "static/media/notification.eot": "/KiruthikaMani05.github.io/newProject/static/media/notification.3657084dc0419605a91c.eot",
+    "static/media/notification.woff?s3g3t9": "/KiruthikaMani05.github.io/newProject/static/media/notification.c392cd33d9d9de730f9d.woff",
+    "static/media/notification.ttf?s3g3t9": "/KiruthikaMani05.github.io/newProject/static/media/notification.c5d9251ea82e42f75381.ttf",
+    "index.html": "/KiruthikaMani05.github.io/newProject/index.html",
+    "main.503a9f05.css.map": "/KiruthikaMani05.github.io/newProject/static/css/main.503a9f05.css.map",
+    "main.21c588d6.js.map": "/KiruthikaMani05.github.io/newProject/static/js/main.21c588d6.js.map",
+    "453.81f383cb.chunk.js.map": "/KiruthikaMani05.github.io/newProject/static/js/453.81f383cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.503a9f05.css",
+    "static/js/main.21c588d6.js"
+  ]
+}
